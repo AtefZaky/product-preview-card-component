@@ -33,7 +33,7 @@ main{
 }
 .product__img{
   flex: 1;
-  background-image: url(/images/image-product-desktop.jpg);
+  background-image: url(./images/image-product-desktop.jpg);
   height: 100%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -111,7 +111,7 @@ footer{
   }
   .product__img{
     width: 100%;
-    background-image: url(/images/image-product-mobile.jpg);
+    background-image: url(./images/image-product-mobile.jpg);
     background-repeat: no-repeat;
     background-position: center;
   }
